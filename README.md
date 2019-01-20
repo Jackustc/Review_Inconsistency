@@ -7,3 +7,6 @@ Find the inconsistent patterns between online review rating and its sentiments c
 This repository describes the steps to find out Yelp hotel review sentiments and their rating inconsitent patterns and their distribution differences between recommended reviews and not recommended reviews.
 
 More details can be found in the paper 'Shan, G., Zhang, D., Zhou, L., Suo, L., Lim, J., & Shi, C. (2018). Inconsistency Investigation between Online Review Content and Ratings (https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1377&context=amcis2018)'.
+
+NLTK POS: http://www.nltk.org/book_1ed/ch05.html
+TextBlob: https://textblob.readthedocs.io/en/dev/quickstart.html
